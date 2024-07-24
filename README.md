@@ -13,6 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 # My Social Media
 
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) width=48px](https://github.com/MikaCKDesigns)
 [![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-48.png)](https://www.linkedin.com/in/michaelah-kroupenin-136197200)
 
