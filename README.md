@@ -11,6 +11,6 @@ MikaCKDesigns/MikaCKDesigns is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub](icons/github.png)](https://github.com/MikaCKDesigns)
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/MikaCKDesigns)
 [![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-48.png)](https://www.linkedin.com/in/michaelah-kroupenin-136197200)
 
