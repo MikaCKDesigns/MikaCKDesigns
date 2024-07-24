@@ -10,3 +10,7 @@
 MikaCKDesigns/MikaCKDesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![GitHub](icons/github.png)](https://github.com/MikaCKDesigns)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/michaelah-kroupenin-136197200)
+
