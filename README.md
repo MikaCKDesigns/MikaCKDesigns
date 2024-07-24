@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub](icons/github.png)](https://github.com/MikaCKDesigns)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/michaelah-kroupenin-136197200)
+[![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png)](https://www.linkedin.com/in/michaelah-kroupenin-136197200)
 
