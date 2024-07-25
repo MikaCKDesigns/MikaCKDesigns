@@ -10,7 +10,7 @@ ChatGPT and GPT-4 LLM Guide- Prompt Engineering for Everyone on Udemy.](https://
 
 - 📚 My favourite places to learn (at the moment) are: [Bring Your Own Laptop](https://www.youtube.com/@BringYourOwnLaptop) on Youtube, [Brainstation Live Event Panels](https://brainstation.io/events/online) with Experts, and [Wix Studio Live Events](https://www.wix.com/studio/academy/event). I really enjoy attending the live events, learning more from the experts, and submitting questions to the panel.
 
-- 📫 How to reach me: michaelah.kroupenin@gmail.com or on LinkedIn
+- 📫 How to reach me: on LinkedIn
 
 - ✍️ Take a look at my:
 -    [Blog post about AI](https://mkroupenin.wixsite.com/portfolio/blog) 
