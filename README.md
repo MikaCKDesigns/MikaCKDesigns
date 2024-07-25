@@ -1,5 +1,5 @@
 #### Intro 
-👋 Hi, I’m Michaelah
+ Hi, I’m MikaCK Designs 👋 
 
 - 📖 I’m interested in Graphic Design, UX/UI, Digital Marketing and Campaign Management
 
