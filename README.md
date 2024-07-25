@@ -1,5 +1,5 @@
 #### Intro 
-👋 Hi, I’m MikaCK Designs
+👋 Hi, I’m Michaelah
 
 - 👀 I’m interested in Graphic Design, UX/UI, Digital Marketing and Campaign Management
 - 🌱 I’m currently learning [Email Marketing on Hubspot,](https://academy.hubspot.com/courses/email-marketing?library=true&library=true&q=email%20marketing) and [
