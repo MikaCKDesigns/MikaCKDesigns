@@ -1,7 +1,7 @@
 #### Intro 
  Hi, I’m MikaCK Designs 👋 
 
-- 📖 I’m interested in Graphic Design, UX/UI, Digital Marketing and Campaign Management
+- 📖 I am a Graphic Designer, interested in these fields of design: UX/UI, Digital Marketing, Campaign Management and Illustration
 
 - ⚡ Fun fact: In my free time, I love going on nature walks to discover different flowers, learn about their medicinal uses, and sketch them in my artbook! 🌼
 
