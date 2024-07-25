@@ -13,8 +13,8 @@ ChatGPT and GPT-4 LLM Guide- Prompt Engineering for Everyone on Udemy.](https://
 - 📫 How to reach me: michaelah.kroupenin@gmail.com or on LinkedIn
 
 - ✍️ Take a look at my:
--    [Blog post about AI] (https://mkroupenin.wixsite.com/portfolio/blog) 
--    [AI Designs] (https://mkroupenin.wixsite.com/portfolio/ai-image-generation)
+-    [Blog post about AI](https://mkroupenin.wixsite.com/portfolio/blog) 
+-    [AI Designs](https://mkroupenin.wixsite.com/portfolio/ai-image-generation)
 
   
 <!---
